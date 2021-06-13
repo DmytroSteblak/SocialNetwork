@@ -1,0 +1,24 @@
+.users{
+
+    display: flex;
+    flex-flow: row wrap;
+    /*align-items: flex-start;*/
+}
+
+.item{
+    width: 120px;
+    text-align: center;
+    border: 1px solid #ececec;
+    border-radius: 6px;
+    padding: 10px;
+    margin: 0 10px;
+}
+.item_name{
+    text-align: center;
+    color: #445162;
+    font-size: 18px;
+}
+
+.userPhoto img{
+    width: 100px;
+}

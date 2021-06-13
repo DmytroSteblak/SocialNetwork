@@ -1,0 +1,25 @@
+.login{
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+    flex-grow: 1;
+    max-width: 100%;
+}
+
+.login > div{
+    width: 100%;
+    max-width: 600px;
+    padding: 0 20px;
+}
+
+.login h1{
+    color: darkcyan;
+    text-align: center;
+}
+
+.authForm{
+    background: #eee;
+    box-shadow: 2px 2px 2px rgba(0,0,0, .5);
+    padding: 15px;
+    border-radius: 5px;
+}

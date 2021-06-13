@@ -1,0 +1,12 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    grid-area: h;
+    background-color: lightgray;
+}
+
+.header span{
+    padding: 10px 25px;
+    font-size: 18px;
+    font-weight: bold;
+}
